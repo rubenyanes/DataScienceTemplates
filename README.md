@@ -25,4 +25,7 @@ Index:
 * Machine Learning Reinforcement Learning (coming soon)
 * Natural Language Processing (coming soon)
 * Deep Learning (coming soon)
-* Model Selection (coming soon)
+* Good practices
+  * Model Selection (coming soon)
+  * Pipelines (coming soon)
+  * Functions & loops (coming soon)
