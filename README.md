@@ -17,7 +17,7 @@ Index:
   * Splitting the data set
   * Feature Scaling
 * Machine Learning Supervised Learning (coming soon)
-  * Regression
+  * Regression: Simple & Multiple Linear Regression, Polynomial Regression, Support Vector Regression, Decision Tree Regression, Random Forest Regression, XGBoost
   * Classification
 * Machine Learning Unsupervised Learning (coming soon)
   * Clustering
