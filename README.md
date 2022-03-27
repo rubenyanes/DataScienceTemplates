@@ -18,7 +18,7 @@ Index:
   * Feature Scaling
 * #### Machine Learning - Supervised Learning
   * [Regression](https://github.com/rubenyanes/Data_Science_Templates/blob/main/Regression_Template.ipynb): Simple & Multiple Linear Regression, Polynomial Regression, Support Vector Regression, Decision Tree Regression, Random Forest Regression, XGBoost
-  * Classification
+  * [Classification](https://github.com/rubenyanes/Data_Science_Templates/blob/main/Classification_Template.ipynb): Logistic Regression, K-Nearest Neighbor, Kernel SVM, Support Vector Machine, Naive Bayes, Decision Tree Classification, Random Forest Classification, XGBoost
 * #### Machine Learning - Unsupervised Learning (coming soon)
   * Clustering
   * Dimensionality Reduction
