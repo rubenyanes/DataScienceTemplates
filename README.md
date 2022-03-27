@@ -22,8 +22,8 @@ Index:
 * #### Machine Learning - Unsupervised Learning (coming soon)
   * Clustering
   * Dimensionality Reduction
-* #### Machine Learning Reinforcement Learning (coming soon)
-* #### Natural Language Processing (coming soon)
+* #### Machine Learning - Reinforcement Learning (coming soon)
+* #### Natural Language - Processing (coming soon)
 * #### Deep Learning (coming soon)
 * #### Good practices
   * Model Selection (coming soon)
