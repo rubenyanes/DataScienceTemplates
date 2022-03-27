@@ -7,7 +7,7 @@ The templates have to be modified depending on the project and replaced the samp
 The templates also follows the order of  normal project in Data Science: Acquire the data -> Explore & preprocess the data -> Analyze the data with models -> Visualize the results
 
 Index:
-* [Data Preprocessing](https://github.com/rubenyanes/DataScienceTemplates/blob/main/Data_Preprocessing_Template.ipynb): it contains:
+* #### [Data Preprocessing](https://github.com/rubenyanes/DataScienceTemplates/blob/main/Data_Preprocessing_Template.ipynb)
   * Import libraries
   * Import data: csv, json, excel, html and sql query. Create dataframe 
   * Data visualization: basic information, data selection
@@ -16,16 +16,16 @@ Index:
   * Encoding categorical data: replace manually, label encoding, one hot encoder
   * Splitting the data set
   * Feature Scaling
-* Machine Learning Supervised Learning (coming soon)
-  * Regression: Simple & Multiple Linear Regression, Polynomial Regression, Support Vector Regression, Decision Tree Regression, Random Forest Regression, XGBoost
+* #### Machine Learning - Supervised Learning
+  * [Regression](https://github.com/rubenyanes/Data_Science_Templates/blob/main/Regression_Template.ipynb): Simple & Multiple Linear Regression, Polynomial Regression, Support Vector Regression, Decision Tree Regression, Random Forest Regression, XGBoost
   * Classification
-* Machine Learning Unsupervised Learning (coming soon)
+* #### Machine Learning - Unsupervised Learning (coming soon)
   * Clustering
   * Dimensionality Reduction
-* Machine Learning Reinforcement Learning (coming soon)
-* Natural Language Processing (coming soon)
-* Deep Learning (coming soon)
-* Good practices
+* #### Machine Learning Reinforcement Learning (coming soon)
+* #### Natural Language Processing (coming soon)
+* #### Deep Learning (coming soon)
+* #### Good practices
   * Model Selection (coming soon)
   * Pipelines (coming soon)
   * Functions & loops (coming soon)
